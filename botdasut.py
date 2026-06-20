@@ -6,7 +6,7 @@ from aiogram.filters import CommandObject
 # Tokeningizni yozing
 API_TOKEN = "8578503116:AAEvZFhUqychs1mXOowxKB8heQT6-EPZeEY"
 # Boya olgan kanalingiz ID raqamini yozing (minus belgisi bilan)
-KANAL_ID = -100123456789  
+KANAL_ID =  -1004402019287 
 
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher()
