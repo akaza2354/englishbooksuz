@@ -7,7 +7,7 @@ from aiogram.filters import CommandObject
 API_TOKEN = "8578503116:AAEvZFhUqychs1mXOowxKB8heQT6-EPZeEY"
 
 # Bot egasining (Sizning) Telegram ID raqamingiz (buni @userinfobot orqali bilish mumkin)
- ADMIN_ID = 123456789  # <--- O'zingizning ID raqamingizni yozing (sonlarda)
+ADMIN_ID = 123456789  # <--- O'zingizning ID raqamingizni yozing (sonlarda)
 
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher()
